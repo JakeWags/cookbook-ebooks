@@ -1,5 +1,5 @@
 # Cookbooks for everyone!
-Just a bunch of cookbooks I have found in pdf form online. The styles and targetted audiences vary drastically. 
+Just a bunch of cookbooks I have found in pdf form online. The styles and targeted audiences vary drastically. 
 
 Feel free to submit pull requests or send me pdf cookbooks to add!
 
